@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Screen Saver",
+    "slug": "screen-saver",
+    "scheme": "screensaver",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.quicksense.screensaver"
+    },
+    "android": {
+      "package": "com.quicksense.screensaver",
+      "adaptiveIcon": {
+        "backgroundColor": "#070809",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "backgroundColor": "#030303"
+    }
+  }
+}

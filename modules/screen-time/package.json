@@ -1,0 +1,10 @@
+{
+  "name": "screen-time",
+  "version": "1.0.0",
+  "description": "Lists launchable apps and reports screen-time blocking limits.",
+  "license": "MIT",
+  "author": "Quicksense",
+  "homepage": "https://github.com/QuicksenseGoated/Screen-Saver",
+  "main": "index.js",
+  "types": "index.d.ts"
+}
